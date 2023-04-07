@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+    background-color: antiquewhite;
+    border: 1px black solid;
+    border-radius: 13%;
+}
+
+.main{
+    background-image: url(./../img/imagen-inicio-sesion-2.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+}

@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .border-columnas {
     border: solid 2px red;
+=======
+* {
+    margin: 0px;
+    padding:0px;
+    display: block;
+    border: blue solid 2px ;
+>>>>>>> 83805015101c91155564407bdf7adfe9ad79a503
 }

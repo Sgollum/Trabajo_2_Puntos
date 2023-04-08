@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.galeria{
+    border: 3px black solid;
+    padding: 1px;
+    display: block;
+    align-items: center;
+}
+

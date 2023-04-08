@@ -3,10 +3,18 @@
     padding: 0px;
 }
 
-.ancho-columna {
+.ancho-de-100-porciento{
     width: 100%;
 }
 
 .borde-generico {
     border: solid 2px yellowgreen;
+}
+
+.margen-entre-carrusel-columna {
+    margin-bottom: 100px;
+}
+
+.espacio-titulo-texto {
+    margin-bottom: 35px;
 }

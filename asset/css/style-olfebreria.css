@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Baskerville Old Face;
 }
 .galeria{
     border: 3px black solid;
@@ -8,4 +9,16 @@
     display: block;
     align-items: center;
 }
+.margen-scrollspy {
+    margin-left: 75px;
+    margin-top: 50px;
+}
 
+.margen-texto-scrollspy {
+    margin-right: 150px;
+    margin-top: 100px;
+}
+.titulo-scrollspy {
+    margin: 100px;
+    margin-left: 30%;
+}

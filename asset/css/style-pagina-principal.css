@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Baskerville Old Face;
 }
 
 .ancho-de-100-porciento{
@@ -22,4 +23,13 @@
 .imagen-carrusel {
     width: 400px;
      height: 700px;
+}
+.tamaño-texto{
+    font-size: 30px;
+}
+.tamaño-titulo{
+    font-size: 60px;
+}
+.tamaño-titulo-carrusel {
+    font-size: 37px;
 }

@@ -3,15 +3,33 @@
     padding: 0px;
 }
 
-section{
-    background-color: antiquewhite;
+.fondo{
+    background-image: url(./../img/fondo-blanco.jpg);
     border: 1px black solid;
-    border-radius: 13%;
+    border-radius: 10%;
+    background-size: 100%;
 }
+
 
 .main{
     background-image: url(./../img/imagen-inicio-sesion-2.jpg);
     height: 100%;
     width: 100%;
     background-size: 100%;
+}
+.cuestio{
+    height: 500px;
+    width: 500px;
+}
+
+.card{
+    width: 500px;
+    height: 320px;
+    margin-left: 60%;
+    margin-top: 10%;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }

@@ -36,3 +36,8 @@
 .color-pagina{
     background-color: #f7f7f7;
 }
+.fondo{
+    background-color: rgba(206, 247, 24, 0.5);
+    border-radius: 30px;
+
+}

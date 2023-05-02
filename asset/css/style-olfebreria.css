@@ -3,12 +3,7 @@
     padding: 0px;
     font-family: Baskerville Old Face;
 }
-.galeria{
-    border: 3px black solid;
-    padding: 1px;
-    display: block;
-    align-items: center;
-}
+
 .margen-scrollspy {
     margin-left: 75px;
     margin-top: 50px;
@@ -24,4 +19,7 @@
 }
 .color-pagina{
     background-color: #f7f7f7;
+}
+.card-img-top{
+    height: 200px auto;
 }
